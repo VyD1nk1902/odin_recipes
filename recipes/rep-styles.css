@@ -1,0 +1,35 @@
+.home {
+  font-size: 20px;
+  text-decoration: none;
+  padding: 5px;
+}
+
+.heading-title {
+  text-align: center;
+  font-size: 40px;
+}
+
+img {
+  display: flex;
+  align-items: center;
+  justify-self: center;
+}
+
+.des,
+.ingre,
+.steps {
+  text-align: center;
+  font-size: 24px;
+}
+
+.des {
+  background-color: greenyellow;
+}
+
+.ingre {
+  background: yellow;
+}
+
+.steps {
+  background-color: #00fdff9c;
+}
